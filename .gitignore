@@ -1,0 +1,11 @@
+# Build output / packaged app (regenerated from src, not source)
+out/
+
+# IntelliJ workspace/user-specific files
+.idea/shelf/
+.idea/workspace.xml
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/httpRequests/
+
+.DS_Store

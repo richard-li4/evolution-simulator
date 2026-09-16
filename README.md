@@ -1,3 +1,5 @@
+> **Note:** This was a high school summer project of mine from 2020. It doesn't reflect my current skill level or coding practices — I'm keeping it up as a snapshot of where I started.
+
 # Evolution Simulator
 
 A grid-based predator-prey simulation built with Java Swing. Rabbits eat plants, wolves eat rabbits, and each meal has a chance to mutate the offspring's speed and sensory radius, so populations evolve over generations as they compete for food and survival.
